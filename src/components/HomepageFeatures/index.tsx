@@ -34,7 +34,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
+        Docusaurus puede ser extendido mientras se usa el mismo encabezado y pie de página. Docusaurus can
         be extended while reusing the same header and footer.
       </>
     ),
